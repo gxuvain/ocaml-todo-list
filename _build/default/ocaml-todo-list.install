@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ocaml-todo-list/META"
+  "_build/install/default/lib/ocaml-todo-list/dune-package"
+  "_build/install/default/lib/ocaml-todo-list/opam"
+]
+bin: [
+  "_build/install/default/bin/ocaml-todo-list"
+]

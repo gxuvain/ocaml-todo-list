@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml-todo-list)
+ (name main)
+ (libraries ocaml_todo_list))
